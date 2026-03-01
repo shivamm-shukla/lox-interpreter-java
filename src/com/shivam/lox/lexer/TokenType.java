@@ -1,6 +1,6 @@
 package com.shivam.lox.lexer;
 
-enum TokenType{
+public enum TokenType{
     LEFT_PAREN,
     RIGHT_PAREN,
     PLUS,
